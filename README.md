@@ -1,6 +1,6 @@
 
-# Building Web Applications on Google Cloud Platform
-MelodyMe - Generating Music with Recurrent Neural Networks
+# MelodyMe
+Generating Music with Recurrent Neural Networks
 
 
 # Publications
